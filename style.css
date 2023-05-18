@@ -8,10 +8,10 @@
 }
 
 .btn-circle {
-    width: 30px;
-    height: 30px;
+    width: 45px;
+    height: 45px;
     padding: 6px 0px;
-    border-radius: 15px;
+    border-radius: 25px;
     text-align: center;
     font-size: 12px;
     line-height: 1.42857;
@@ -19,5 +19,19 @@
 
 .lined {
     border: 1px solid black;
+}
+
+.c-blue {
+    background-color: rgba(44, 150, 249, 0.15);
+    border-color:rgba(44, 71, 249, 0.893);
+    border-style: solid;
+    color: black;
+}
+
+.c-orange {
+    background-color: rgba(249, 157, 44, 0.15);
+    border-color:rgba(249, 133, 44, 0.893);
+    border-style: solid;
+    color: black;
 }
 
